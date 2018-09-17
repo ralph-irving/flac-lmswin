@@ -75,3 +75,4 @@ test/picture.diff
 test/picture.log
 .dirstamp
 microbench/benchmark_residual
+include/ogg
